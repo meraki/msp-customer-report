@@ -1,7 +1,7 @@
 # msp-customer-POS-report
 ## Synopsis
 
-This is an easy sample-code used by a Service Provider to create a monthly POS/Sell-Out Report if all customers are maintained in a single Organization. They order Meraki components in bulk and make the part of the Organization inventory. As soon as a device is part of a network it means it has been sold to a customer and will be part of the report. The data is written into a csv-file containing the Customer name, the SP-owned customer ID as well as the physical address where the devices have been sold to.
+This is an easy sample-code used by a Service Provider to create a monthly POS/Sell-Out Report if all customers are maintained in a single Organization. They order Meraki components in bulk and make them part of the Organization inventory. As soon as a device is part of a network it means it has been sold to a customer and will be part of the report. The data is written into a csv-file containing the Customer name, the SP-owned customer ID and the physical address where the devices have been sold to.
 
 ## Prerequisites
 
